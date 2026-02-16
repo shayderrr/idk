@@ -1,0 +1,382 @@
+{
+    "0": {
+        "category": "Not Rated",
+        "blocked": true
+    },
+    "1": {
+        "category": "Drug Abuse",
+        "blocked": true
+    },
+    "2": {
+        "category": "Alternative Beliefs",
+        "blocked": false
+    },
+    "3": {
+        "category": "Hacking",
+        "blocked": true
+    },
+    "4": {
+        "category": "Illegal or Unethical",
+        "blocked": true
+    },
+    "5": {
+        "category": "Discrimination",
+        "blocked": true
+    },
+    "6": {
+        "category": "Explicit Violence",
+        "blocked": true
+    },
+    "7": {
+        "category": "Abortion",
+        "blocked": false
+    },
+    "8": {
+        "category": "Other Adult Materials",
+        "blocked": true
+    },
+    "9": {
+        "category": "Advocacy Organizations",
+        "blocked": false
+    },
+    "10": {
+        "category": "Alcohol and Tobacco",
+        "blocked": true
+    },
+    "11": {
+        "category": "Gambling",
+        "blocked": true
+    },
+    "12": {
+        "category": "Extremist Groups",
+        "blocked": true
+    },
+    "13": {
+        "category": "Nudity and Risque",
+        "blocked": true
+    },
+    "14": {
+        "category": "Pornography",
+        "blocked": true
+    },
+    "15": {
+        "category": "Dating",
+        "blocked": true
+    },
+    "16": {
+        "category": "Weapons (Sales)",
+        "blocked": true
+    },
+    "17": {
+        "category": "Advertising",
+        "blocked": false
+    },
+    "18": {
+        "category": "Brokerage and Trading",
+        "blocked": false
+    },
+    "19": {
+        "category": "Freeware and Software Downloads",
+        "blocked": true
+    },
+    "20": {
+        "category": "Games",
+        "blocked": true
+    },
+    "23": {
+        "category": "Web-based Email",
+        "blocked": false
+    },
+    "24": {
+        "category": "File Sharing and Storage",
+        "blocked": false
+    },
+    "25": {
+        "category": "Streaming Media and Download",
+        "blocked": true
+    },
+    "26": {
+        "category": "Malicious Websites",
+        "blocked": true
+    },
+    "28": {
+        "category": "Entertainment",
+        "blocked": true
+    },
+    "29": {
+        "category": "Arts and Culture",
+        "blocked": false
+    },
+    "30": {
+        "category": "Education",
+        "blocked": false
+    },
+    "31": {
+        "category": "Finance and Banking",
+        "blocked": false
+    },
+    "33": {
+        "category": "Health and Wellness",
+        "blocked": false
+    },
+    "34": {
+        "category": "Job Search",
+        "blocked": false
+    },
+    "35": {
+        "category": "Medicine",
+        "blocked": false
+    },
+    "36": {
+        "category": "News and Media",
+        "blocked": false
+    },
+    "37": {
+        "category": "Social Networking",
+        "blocked": true
+    },
+    "38": {
+        "category": "Political Organizations",
+        "blocked": false
+    },
+    "39": {
+        "category": "Reference",
+        "blocked": false
+    },
+    "40": {
+        "category": "Global Religion",
+        "blocked": false
+    },
+    "41": {
+        "category": "Search Engines and Portals",
+        "blocked": false
+    },
+    "42": {
+        "category": "Shopping",
+        "blocked": true
+    },
+    "43": {
+        "category": "General Organizations",
+        "blocked": false
+    },
+    "44": {
+        "category": "Society and Lifestyles",
+        "blocked": false
+    },
+    "46": {
+        "category": "Sports",
+        "blocked": true
+    },
+    "47": {
+        "category": "Travel",
+        "blocked": false
+    },
+    "48": {
+        "category": "Personal Vehicles",
+        "blocked": true
+    },
+    "49": {
+        "category": "Business",
+        "blocked": false
+    },
+    "50": {
+        "category": "Information and Computer Security",
+        "blocked": false
+    },
+    "51": {
+        "category": "Government and Legal Organizations",
+        "blocked": false
+    },
+    "52": {
+        "category": "Information Technology",
+        "blocked": false
+    },
+    "53": {
+        "category": "Armed Forces",
+        "blocked": false
+    },
+    "54": {
+        "category": "Dynamic Content",
+        "blocked": false
+    },
+    "55": {
+        "category": "Meaningless Content",
+        "blocked": true
+    },
+    "56": {
+        "category": "Web Hosting",
+        "blocked": false
+    },
+    "57": {
+        "category": "Marijuana",
+        "blocked": true
+    },
+    "58": {
+        "category": "Folklore",
+        "blocked": false
+    },
+    "59": {
+        "category": "Proxy Avoidance",
+        "blocked": true
+    },
+    "61": {
+        "category": "Phishing",
+        "blocked": true
+    },
+    "62": {
+        "category": "Plagiarism",
+        "blocked": true
+    },
+    "63": {
+        "category": "Sex Education",
+        "blocked": false
+    },
+    "64": {
+        "category": "Alcohol",
+        "blocked": true
+    },
+    "65": {
+        "category": "Tobacco",
+        "blocked": true
+    },
+    "66": {
+        "category": "Lingerie and Swimsuit",
+        "blocked": true
+    },
+    "67": {
+        "category": "Sports Hunting and War Games",
+        "blocked": true
+    },
+    "68": {
+        "category": "Web Chat",
+        "blocked": true
+    },
+    "69": {
+        "category": "Instant Messaging",
+        "blocked": true
+    },
+    "70": {
+        "category": "Newsgroups and Message Boards",
+        "blocked": true
+    },
+    "71": {
+        "category": "Digital Postcards",
+        "blocked": false
+    },
+    "72": {
+        "category": "Peer-to-peer File Sharing",
+        "blocked": true
+    },
+    "75": {
+        "category": "Internet Radio and TV",
+        "blocked": true
+    },
+    "76": {
+        "category": "Internet Telephony",
+        "blocked": false
+    },
+    "77": {
+        "category": "Child Education",
+        "blocked": false
+    },
+    "78": {
+        "category": "Real Estate",
+        "blocked": false
+    },
+    "79": {
+        "category": "Restaurant and Dining",
+        "blocked": false
+    },
+    "80": {
+        "category": "Personal Websites and Blogs",
+        "blocked": false
+    },
+    "81": {
+        "category": "Secure Websites",
+        "blocked": false
+    },
+    "82": {
+        "category": "Content Servers",
+        "blocked": false
+    },
+    "83": {
+        "category": "Child Abuse",
+        "blocked": true
+    },
+    "84": {
+        "category": "Web-based Applications",
+        "blocked": false
+    },
+    "85": {
+        "category": "Domain Parking",
+        "blocked": true
+    },
+    "86": {
+        "category": "Spam URLs",
+        "blocked": true
+    },
+    "87": {
+        "category": "Personal Privacy",
+        "blocked": false
+    },
+    "88": {
+        "category": "Dynamic DNS",
+        "blocked": true
+    },
+    "89": {
+        "category": "Auction",
+        "blocked": true
+    },
+    "90": {
+        "category": "Newly Observed Domain",
+        "blocked": true
+    },
+    "91": {
+        "category": "Newly Registered Domain",
+        "blocked": true
+    },
+    "92": {
+        "category": "Charitable Organizations",
+        "blocked": false
+    },
+    "93": {
+        "category": "Remote Access",
+        "blocked": true
+    },
+    "94": {
+        "category": "Web Analytics",
+        "blocked": false
+    },
+    "95": {
+        "category": "Online Meeting",
+        "blocked": false
+    },
+    "96": {
+        "category": "Terrorism",
+        "blocked": true
+    },
+    "97": {
+        "category": "URL Shortening",
+        "blocked": true
+    },
+    "98": {
+        "category": "Crypto Mining",
+        "blocked": true
+    },
+    "99": {
+        "category": "Potentially Unwanted Program",
+        "blocked": true
+    },
+    "100": {
+        "category": "Artificial Intelligence Technology",
+        "blocked": false
+    },
+    "101": {
+        "category": "Cryptocurrency",
+        "blocked": true
+    },
+    "-1": {
+        "category": "Unknown",
+        "blocked": true
+    }
+}
